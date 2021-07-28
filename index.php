@@ -17,7 +17,7 @@ use Symfony\Component\Filesystem\Exception\IOExceptionInterface;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 
 /* 
-    * Accepte picture and return CSV format
+    * Accepte picture/PDF and return CSV format
 */
 
 class ScanForCompta extends AbstractController
